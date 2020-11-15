@@ -1,3 +1,11 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+@author: github.com/maliozer
+@license: MIT
+"""
+
+
 #mysql connection problem from python
 '''
 sudo mysql
